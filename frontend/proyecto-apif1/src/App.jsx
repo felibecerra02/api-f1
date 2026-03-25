@@ -878,7 +878,7 @@ function Landing({ onEnter }) {
 
       <div className="landing-hero">
         <div className="landing-hero-left">
-          <div className="landing-eyebrow">Fórmula 1 · Base de datos oficial</div>
+          <div className="landing-eyebrow">Fórmula 1 </div>
 
           <h1 className="landing-title">
             <span>VELOCIDAD</span>
@@ -889,6 +889,7 @@ function Landing({ onEnter }) {
           <p className="landing-desc">
             Explorá la temporada 2026 de Fórmula 1 en tiempo real. Pilotos, escuderías
             y circuitos de la competencia más exigente del mundo, todo en un solo lugar.
+            Informacion obtenida de la API: f1api.dev
           </p>
 
           <div className="landing-cta">
