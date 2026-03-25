@@ -15,7 +15,7 @@ router.get("/", async (req, res) => {
         console.log("Error al obtener")
         res.json({
             status: 500,
-            message: "No se pudieron obtener los pilotos"
+            message: "No se pudieron obtener los equipos"
         })
     }
 
